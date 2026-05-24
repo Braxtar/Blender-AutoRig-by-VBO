@@ -74,9 +74,3 @@ This is a skill consumed by Claude (Cowork / Claude Code) with the Blender MCP c
 attached. Point Claude at a ZBrush TPoseMesh OBJ and it follows `SKILL.md`: import → pick the
 rigging approach → rig → weight → pose → export → hand back to ZBrush. Each script has a
 `CONFIG` block at the top; edit the paths/values and run the file through the connector.
-
-## Credit
-
-Method by **Gareth Brewer**, workshop hosted by **Pablo Muñoz Gómez / ZBrushGuides**. This
-skill packages that workflow for Blender 5.x and adds the round-trip safety tooling and a
-2026 auto-rigging decision gate.
